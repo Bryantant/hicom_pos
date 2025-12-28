@@ -1,12 +1,7 @@
 [project]
 name = "hicom_pos"
 authors = [
-    { name = "Youssef Restom", email = "youssef@totrox.com"},
-    { name = "Abdul Manan", email="defendicon@github.com"},
-    { name = "ASA Technologies", email = "dev@asaerp.com"},
-    { name = "Ateeq-Raheman", email = "ateeqraheman001195@gmail.com"},
-    { name = "Ahmed Osama", email = "eng.ahmed.osama.1190@gmail.com"},
-    { name = "Samarth Upare", email = "samarth.upare@redtra.com"},
+    { name = "Hicom System", email = "h1com.syst3m@gmail.com"}
 ]
 description = "Hicom POS"
 requires-python = ">=3.10"
