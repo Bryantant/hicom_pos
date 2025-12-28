@@ -1,5 +1,5 @@
 [project]
-name = "posawesome"
+name = "hicom_pos"
 authors = [
     { name = "Youssef Restom", email = "youssef@totrox.com"},
     { name = "Abdul Manan", email="defendicon@github.com"},
@@ -8,7 +8,7 @@ authors = [
     { name = "Ahmed Osama", email = "eng.ahmed.osama.1190@gmail.com"},
     { name = "Samarth Upare", email = "samarth.upare@redtra.com"},
 ]
-description = "POS project that's simply awesome"
+description = "Hicom POS"
 requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]
