@@ -1,13 +1,13 @@
 from posawesome.utils import get_build_version
 
-app_name = "hicom_pos"
+app_name = "posawesome"
 app_title = "Hicom POS"
 app_publisher = "Hicom System"
 app_description = "Web-based POS System"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
 app_email = "h1com.syst3m@gmail.com"
-app_license = "Proprietary"
+app_license = "GPLv3"
 
 # Includes in <head>
 # ------------------
